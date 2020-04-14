@@ -39,4 +39,4 @@ This will open up a browser for you to authorize a google account to edit one of
 
 Once all set up run the `telegram_bot.py` to start a telegram server and start interacting with your bot. Make sure you created your bot first and get a telegram TOKEN from the `botfather` [All about telegram bots](https://core.telegram.org/bots)
 
-(Here is a sample spreadhseet file from my test of the scripts)[https://docs.google.com/spreadsheets/d/1IgBlza2FAX96AoI47G20gK1t93ya3xAjlzt23jaGPFk/edit?usp=sharing]
+[Here is a sample spreadhseet file from my test of the scripts](https://docs.google.com/spreadsheets/d/1IgBlza2FAX96AoI47G20gK1t93ya3xAjlzt23jaGPFk/edit?usp=sharing)
