@@ -40,3 +40,11 @@ This will open up a browser for you to authorize a google account to edit one of
 Once all set up run the `telegram_bot.py` to start a telegram server and start interacting with your bot. Make sure you created your bot first and get a telegram TOKEN from the `botfather` [All about telegram bots](https://core.telegram.org/bots)
 
 [Here is a sample spreadhseet file from my test of the scripts](https://docs.google.com/spreadsheets/d/1IgBlza2FAX96AoI47G20gK1t93ya3xAjlzt23jaGPFk/edit?usp=sharing)
+
+## Serve in a different language
+
+The code is i18n ready using GNU's gettext implementation of pythong. 
+
+I've already included the not-fully working version of Amharic to to show you how. You can take it from there.
+
+To serve the "bot" in different language change the language preference to "am", this should automatically switch the language without any further configuration change.
