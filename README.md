@@ -37,4 +37,4 @@ After the packages installed and you change the parameters inside the `config.in
 
 This will open up a browser for you to authorize a google account to edit one of your prefered google sheets. `toke.pickle` and `credentials.json` files will be generated.
 
-Once all set up run the `telegram_bot.py` to start a telegram server and start interacting with your bot. Make sure you created your bot first and get a telegram TOKEN from the `botfather` (All about telegram bots)[https://core.telegram.org/bots]
+Once all set up run the `telegram_bot.py` to start a telegram server and start interacting with your bot. Make sure you created your bot first and get a telegram TOKEN from the `botfather` [All about telegram bots](https://core.telegram.org/bots)
