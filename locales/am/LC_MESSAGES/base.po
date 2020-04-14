@@ -1,0 +1,226 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-14 17:30+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: telegram_bot.py:62
+msgid "I do not have any of these"
+msgstr "ከእነዚህ ውስጥ አንዳቸውም የለኝም"
+
+#: telegram_bot.py:62
+msgid "I'm experiencing at least one of these"
+msgstr "ከእነዚህ ውስጥ ቢያንስ አንዱ እያጋጠመኝ ነው"
+
+#: telegram_bot.py:66
+msgid ""
+"Is this an emergency?\n"
+" \n"
+" Are you expreincing any of the following?\n"
+" \n"
+" 1️⃣ Severe, constant chest pain or pressure\n"
+" 2️⃣ Extreme difficulty breathing\n"
+" 3️⃣ Severe, constant lightheadedness\n"
+" 4️⃣ Serious disorientation or unresponsiveness"
+msgstr "ይህ ድንገተኛ ነው?\n"
+" \n"
+" ከሚከተሉት ውስጥ አንዱን አንዱ እየተሰማዎት ነው?\n"
+" \n"
+" 1️⃣ ከባድ ፣ የማያቋርጥ የደረት ህመም ወይም ግፊት\n"
+" 2️⃣ ከባድ የመተንፈስ ችግር\n"
+" 3️⃣ ከባድ ፣ የማያቋርጥ መፍዘዝ/መደንዘዝ\n"
+" 4️⃣ ከባድ መውናበድ ውይንም ምላሽ አለመስጠት"
+
+#: telegram_bot.py:87
+msgid ""
+"Dear {} You should call {}.\n"
+" \n"
+" Based on your reported symptoms, you should seek care immediately\n"
+" How to get a care...\n"
+" Thank you for participating in this self reporting"
+msgstr "ውድ {} ወደ {} ደውለው አስቸከዋይ እርዳታ ያፈላልጉ።\n"
+" \n"
+" ሪፖርት በተደረጉት ምልክቶች ላይ በመመርኮዝ ወዲያውኑ እንክብካቤ መፈለግ አለብዎት\n"
+" እንዴት እንክብካቤ ማግኘት እንደሚቻል…\n"
+" በዚህ ራስ-ሪፖርት ላይ በመሳተፍዎ እናመሰግናለን"
+
+#: telegram_bot.py:107
+msgid "64 or older"
+msgstr "64 ወይም ከዛ በላይ"
+
+#: telegram_bot.py:107
+msgid "Between 18 and 64"
+msgstr "በ 18 እና 64 መካከል"
+
+#: telegram_bot.py:110
+msgid ""
+"How old are you?\n"
+" \n"
+" "
+msgstr "እድሜዎ ስንት ነው?\n"
+" \n"
+" "
+
+#: telegram_bot.py:121 telegram_bot.py:137
+msgid "None of the above"
+msgstr "ከላይ ከተዘረዘሩት ውስጥ አንዳቸውም አይደሉም"
+
+#: telegram_bot.py:121 telegram_bot.py:137
+msgid "One or more of the above"
+msgstr "ከላይ ከተዘረዘሩት ውስጥ አንድ ወይም ከዛ በላይ ከላይ"
+
+#: telegram_bot.py:124
+msgid ""
+"Are you experiencing any of these symptoms?\n"
+" \n"
+" 1️⃣ Fever, chills, or sweating\n"
+" 2️⃣ Difficulty breathing (not severe)\n"
+" 3️⃣ New or worsening cough\n"
+" 5️⃣ Sore throat\n"
+" 6️⃣ Aching throughout the body\n"
+" 7️⃣ Vomiting or diarrhea\n"
+" "
+msgstr "ከእነዚህ ምልክቶች መካከል አንዳቸውም እያጋጠሙዎት ነው?\n"
+" \n"
+" 1️⃣ ትኩሳት ፣ ብርድ ብርድ ማለት ወይም ላብ\n"
+" 2️⃣ የመተንፈስ ችግር (ከባድ ያልሆነ)\n"
+" 3️⃣ አዲስ ወይም እየተባባሰ ሳል\n"
+" 5️⃣ የጉሮሮ መቁሰል\n"
+" 6️⃣ መላ ሰውነት አለመመቸት\n"
+" 7️⃣ ማስታወክ ወይም ተቅማጥ\n"
+" "
+
+#: telegram_bot.py:140
+msgid ""
+"Do you have any of these conditions??\n"
+" \n"
+" 1️⃣ Asthma or chronic lung disease\n"
+" 2️⃣ Pregnancy\n"
+" 3️⃣ Diabetes with complications\n"
+" 4️⃣ Diseases or conditions that make it harder to cough\n"
+" 5️⃣ Kidney failure that needs dialysis\n"
+" 6️⃣ Cirrhosis or the liver\n"
+" 7️⃣ Weakened immune system\n"
+" 8️⃣ Congestive heart failure\n"
+" 9️⃣ Extreme obesity"
+msgstr "ከእነዚህ ሁኔታዎች ውስጥ አንዱ አለዎት ?\n"
+" \n"
+" 1️⃣ አስም ወይም ሥር የሰደደ የሳንባ በሽታ\n"
+" 2️⃣ ⃣ እርግዝና\n"
+" 3️⃣ የስኳር በሽታ ከተያያዥ በሽታዎች ጋር\n"
+" 4️⃣ ሳል ለመሰብሰብ አስቸጋሪ የሚያደርጉ በሽታዎች ወይም ሁኔታዎች\n"
+" 5️⃣ የደም እጥበት የሚፈልግ የኩላሊት ችግር\n"
+" 6️⃣ Cirrhosis ወይም የጉበት\n"
+" 7️⃣ ደካማ የሰውነት በሽታ የመከላከል ሥርዓት\n"
+" 8️⃣ የልብ ድካም\n"
+" 9️⃣ ከመጠን በላይ ውፍረት"
+
+#: telegram_bot.py:156
+msgid ""
+"In the last 14 days, have you traveled internationally?\n"
+" \n"
+" 1️⃣ I have traveled Internationally\n"
+" 2️⃣ I have not traveled internationally"
+msgstr "በአለፉት 14 ቀናት ውስጥ ከሃገር ውጪ ጉዞ አርገዋል?\n"
+" \n"
+" 1️⃣ አዎ ጉዞ አድርጊያለሁ \n"
+" 2️⃣ አይ ጉዞ አላደረኩም"
+
+#: telegram_bot.py:172
+msgid ""
+"Do you live or work in a care facility??\n"
+" \n"
+" 1️⃣ I live with someone who has COVID-19\n"
+" 2️⃣ I have had close contact with someon who has COVID-19\n"
+" 3️⃣ I have been near someone who has COVID-19\n"
+" 4️⃣ I have had no exposure"
+msgstr "በሕክምና ተቋማት ውስጥ ይሠራሉ ወይም ይኖራሉ?\n"
+" \n"
+" 1️⃣ የምኖረው COVID-19 ካለው ሰው ጋር ነው\n"
+" 2️⃣ COVID-19 ካለው አንድ ሰው ጋር የቅርብ ግንኙነት ነበረኝ\n"
+" 3️⃣ COVID-19 ካለው ሰው ጋር ቅርብ ነበርኩ\n"
+" 4️⃣ ምንም መጋለጥ አልነበረኝም"
+
+#: telegram_bot.py:188
+msgid ""
+"In the last 14 days, what is your exposure to others who are known to have COVID-19?\n"
+" <i>This includes a hospital, emergency room, other medical setting, or long-term facility.</i>\n"
+" \n"
+" 1️⃣ I live in a long-term care facility\n"
+" <i>This includes nursing homes or assisted living.</i>\n"
+" 2️⃣ I have worked in a hospital or other care facility in the past 14 days\n"
+" <i>This includes volunteering</i>\n"
+" 3️⃣ I plan to work in a hospital or other care facility in the next 14 days\n"
+" <i>This includes volunteering</i>\n"
+" 4️⃣ No, I do not live or work in a care facility"
+msgstr "ባለፉት 14 ቀናት ውስጥ COVID-19 እንዳላቸው ከታወቁ ሰዎች ጋር የቅርብ ንክኪ ኖርዎት ያውቃል?\n"
+" <i> ይህ ሆስፒታል ፣ የድንገተኛ ክፍል ፣ ሌሎች የሕክምና መቼቶች ወይም የረጅም ጊዜ መገልገያዎችን ያካትታል። </ i>\n"
+" \n"
+" 1️⃣ የምኖረው በረጅም ጊዜ እንክብካቤ ተቋም ውስጥ ነው\n"
+" <i> ይህ የነር homes ቤቶችን ወይም የታገዘ አኗኗር ያካትታል ፡፡ </ i>\n"
+" 2️⃣ ላለፉት 14 ቀናት በሆስፒታል ወይም በሌላ እንክብካቤ ተቋም ውስጥ ሠርቻለሁ\n"
+" <i> ይህ በጎ ፈቃደኝነትን ያካትታል </ i>\n"
+" 3️⃣ በሚቀጥሉት 14 ቀናት ውስጥ በሆስፒታል ወይም በሌላ እንክብካቤ ተቋም ውስጥ ለመስራት እቅድ አለኝ\n"
+" <i> ይህ በጎ ፈቃደኝነትን ያካትታል </ i>\n"
+" 4️⃣ የለም ፣ እኔ በእንደዚህ ዓይነት እንክብካቤ ተቋም ውስጥ አልሠራም ወይም አልሠራም"
+
+#: telegram_bot.py:219
+msgid "Please Share My Current Location"
+msgstr "እባክዎን የእኔን ወቅታዊ ሥፍራ ያጋሩ"
+
+#: telegram_bot.py:226
+msgid ""
+"Welcome\n"
+" \n"
+"  Intro text"
+msgstr "እንኳን ደህና መጡ\n"
+" \n"
+"  መግቢያ ጽሑፍ"
+
+#: telegram_bot.py:252
+msgid "Please Share My Contact"
+msgstr "እባክዎን እውቂያዬን ያካፍሉ"
+
+#: telegram_bot.py:259
+msgid "We got your location, Thank you. Please provided us with your contact."
+msgstr "የሚገኙበትን ቦታ መዝግበናል ፣ እናመሰግናለን። እባክዎ የስልክ ቁጥርዎን እና ስምዎን ስጡን ፡፡"
+
+#: telegram_bot.py:269
+msgid "User %s did not send a location."
+msgstr "ተጠቃሚ %s አካባቢ አልላከውም።"
+
+#: telegram_bot.py:271
+msgid "You seem a bit paranoid! At last, tell me something about yourself."
+msgstr "ትንሽ የሚያሰኝ ይመስላል! በመጨረሻ ስለ ራስህ አንድ ነገር ንገረኝ ፡፡"
+
+#: telegram_bot.py:281
+msgid "Bye! I hope you are safe."
+msgstr "ባይ! ደህንነትዎ የተጠበቀ እንደሆነ ተስፋ አደርጋለሁ ፡፡"
+
+#: telegram_bot.py:308
+msgid "^(I'm experiencing at least one of these)"
+msgstr "^(ከእነዚህ ውስጥ ቢያንስ አንዱ እያጋጠመኝ ነው)"
+
+#: telegram_bot.py:311
+msgid "^(I do not have any of these)"
+msgstr "^(ከእነዚህ ውስጥ አንዳቸውም የለኝም)"
+
+#: telegram_bot.py:315
+msgid "^(Between 18 and 64|64 or older)"
+msgstr "^(በ 18 እና 64 መካከል|64 ወይም ከዛ በላይ)"
+
+#: telegram_bot.py:320 telegram_bot.py:326
+msgid "^(None of the above|One or more of the above)"
+msgstr "^(ከላይ ከተዘረዘሩት ውስጥ አንዳቸውም አይደሉም |ከላይ ከተዘረዘሩት ውስጥ አንድ ወይም ከዛ በላይ ከላይ)"
+
